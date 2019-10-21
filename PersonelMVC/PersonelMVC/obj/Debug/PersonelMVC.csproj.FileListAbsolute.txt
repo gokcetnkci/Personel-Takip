@@ -1,0 +1,228 @@
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\PersonelMVC.dll.config
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\PersonelMVC.dll
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\PersonelMVC.pdb
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\csc.exe
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\csc.exe.config
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\csc.rsp
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\csi.exe
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\csi.exe.config
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\csi.rsp
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\System.AppContext.dll
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\System.Console.dll
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\vbc.exe
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\vbc.exe.config
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\vbc.rsp
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\EntityFramework.dll
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\System.Web.Helpers.dll
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\System.Web.Mvc.dll
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\System.Web.Razor.dll
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\System.Web.Webpages.dll
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\EntityFramework.xml
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\System.Web.Razor.xml
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\System.Web.Webpages.xml
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\System.Web.Helpers.xml
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\System.Web.Mvc.xml
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\obj\Debug\PersonelMVC.csprojAssemblyReference.cache
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\obj\Debug\PersonelMVC.csproj.CoreCompileInputs.cache
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\obj\Debug\PersonelMVC.csproj.CopyComplete
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\obj\Debug\PersonelMVC.dll
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\obj\Debug\PersonelMVC.pdb
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\GOKCE\source\repos\PersonelMVC\PersonelMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\PersonelMVC.dll.config
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\PersonelMVC.dll
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\PersonelMVC.pdb
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\csc.exe
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\csc.exe.config
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\csc.rsp
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\csi.exe
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\csi.exe.config
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\csi.rsp
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\Microsoft.Managed.Core.targets
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.AppContext.dll
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.Collections.Immutable.dll
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.Console.dll
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.Globalization.Calendars.dll
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.IO.Compression.dll
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.IO.FileSystem.dll
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.Net.Http.dll
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.Net.Sockets.dll
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.Reflection.Metadata.dll
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.ValueTuple.dll
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.Xml.XmlDocument.dll
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.Xml.XPath.dll
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\vbc.exe
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\vbc.exe.config
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\vbc.rsp
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\VBCSCompiler.exe
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\VBCSCompiler.exe.config
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\EntityFramework.dll
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\EntityFramework.SqlServer.dll
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\Microsoft.Web.Infrastructure.dll
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\System.Web.Helpers.dll
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\System.Web.Mvc.dll
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\System.Web.Razor.dll
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\System.Web.WebPages.Deployment.dll
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\System.Web.WebPages.dll
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\System.Web.WebPages.Razor.dll
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\EntityFramework.xml
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\EntityFramework.SqlServer.xml
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\System.Web.Helpers.xml
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\System.Web.Mvc.xml
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\System.Web.Razor.xml
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\System.Web.WebPages.xml
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\System.Web.WebPages.Deployment.xml
+E:\visual studio projeler\PersonelMVC\PersonelMVC\bin\System.Web.WebPages.Razor.xml
+E:\visual studio projeler\PersonelMVC\PersonelMVC\obj\Debug\PersonelMVC.csprojAssemblyReference.cache
+E:\visual studio projeler\PersonelMVC\PersonelMVC\obj\Debug\PersonelMVC.csproj.CoreCompileInputs.cache
+E:\visual studio projeler\PersonelMVC\PersonelMVC\obj\Debug\PersonelMVC.csproj.CopyComplete
+E:\visual studio projeler\PersonelMVC\PersonelMVC\obj\Debug\PersonelMVC.dll
+E:\visual studio projeler\PersonelMVC\PersonelMVC\obj\Debug\PersonelMVC.pdb
+D:\visual studio projeler\PersonelMVC\PersonelMVC\obj\Debug\PersonelMVC.csprojAssemblyReference.cache
+D:\visual studio projeler\PersonelMVC\PersonelMVC\obj\Debug\PersonelMVC.csproj.CoreCompileInputs.cache
+D:\visual studio projeler\PersonelMVC\PersonelMVC\obj\Debug\PersonelMVC.dll
+D:\visual studio projeler\PersonelMVC\PersonelMVC\obj\Debug\PersonelMVC.pdb
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\PersonelMVC.dll.config
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\PersonelMVC.dll
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\PersonelMVC.pdb
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\csc.exe
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\csc.exe.config
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\csc.rsp
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\csi.exe
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\csi.exe.config
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\csi.rsp
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\Microsoft.Managed.Core.targets
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.AppContext.dll
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.Collections.Immutable.dll
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.Console.dll
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.Globalization.Calendars.dll
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.IO.Compression.dll
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.IO.FileSystem.dll
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.Net.Http.dll
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.Net.Sockets.dll
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.ValueTuple.dll
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.Xml.XmlDocument.dll
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.Xml.XPath.dll
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\vbc.exe
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\vbc.exe.config
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\vbc.rsp
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\VBCSCompiler.exe
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\roslyn\VBCSCompiler.exe.config
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\EntityFramework.dll
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\EntityFramework.SqlServer.dll
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\System.Web.Helpers.dll
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\System.Web.Mvc.dll
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\System.Web.Razor.dll
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\System.Web.WebPages.Deployment.dll
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\System.Web.WebPages.dll
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\System.Web.WebPages.Razor.dll
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\EntityFramework.xml
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\EntityFramework.SqlServer.xml
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\System.Web.Helpers.xml
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\System.Web.Mvc.xml
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\System.Web.Razor.xml
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\System.Web.WebPages.xml
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\System.Web.WebPages.Deployment.xml
+D:\visual studio projeler\PersonelMVC\PersonelMVC\bin\System.Web.WebPages.Razor.xml
+D:\visual studio projeler\PersonelMVC\PersonelMVC\obj\Debug\PersonelMVC.csproj.CopyComplete

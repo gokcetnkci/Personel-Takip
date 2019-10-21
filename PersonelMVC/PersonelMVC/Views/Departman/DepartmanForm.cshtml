@@ -1,0 +1,14 @@
+﻿@model PersonelMVC.Models.EntityFramework.Departman
+@{
+    ViewBag.Title = "YeniKayit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using (Html.BeginForm("Kaydet", "Departman", FormMethod.Post))
+{
+    <div class="form-group">
+        @Html.LabelFor(m => m.Ad)
+        @Html.TextBoxFor(m => m.Ad, new { @class = "form-control" })
+    </div>
+    <button type="submit" class="btn btn-success">Kaydet</button>
+}
